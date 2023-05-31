@@ -46,7 +46,7 @@
 		    });
 		}
 		function qqq() {
-		    window.open('https://jq.qq.com/?_wv=1027&k=fIljvE3d');
+		    window.open('http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=vg-sKisRuq7MPf3iQ_TD6lzJmZDtmi2i&authKey=0R6IRdMPAap532ktjZ%2BFaeLVIM9JnuRyfj0qSvhcXaItqRg3Payd4mXLCTUw2XJm&noverify=0&group_code=4650034');
 		}
 		function qq(qq) {
 			window.open('http://wpa.qq.com/msgrd?v=3&uin='+qq+'&site=qq&menu=yes');
@@ -75,7 +75,7 @@
 		  
 	        var clipboard = new ClipboardJS('#btn_Share', {
             text: function () {
-                var url = '勇闯大陆';
+                var url = '灵境杀戮';
                 return url;
             }
         });
